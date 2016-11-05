@@ -52,7 +52,7 @@ class ItemTable extends AppTable {
 			Boolean.
 	*/
 	public function save($object) {
-
+die;
 		if (!($application = $object->getApplication())) {
 			throw new ItemTableException('Invalid application id');
 		}
