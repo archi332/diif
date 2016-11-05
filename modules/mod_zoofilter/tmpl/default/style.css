@@ -1,0 +1,88 @@
+
+/* ZOOfilter default form style*/
+
+
+.zoo-filter .form-element-row
+{
+    overflow: hidden;
+    margin-bottom: 3px;
+    padding: 5px;
+}
+
+.zoo-filter label 
+{
+    height: 1em;
+    margin-bottom: 10px;
+	cursor: default;
+}
+
+.zoo-filter input 
+{
+    height: 1em;
+    margin-bottom: 15px;
+	padding: 3px;
+}
+
+.zoo-filter .clearfix {
+    clear: both;
+}
+
+/* Button */
+.zoo-filter .button
+{
+ 
+ clear: both;
+    display: inline;
+    float: left;
+    margin: 17px 0 0 12%;
+
+    padding: 2px 9px;
+    cursor: pointer;
+    color: #fff;
+    font: bold 13px Tahoma, Verdana, Arial;
+    text-transform: uppercase;
+    overflow: visible; /* IE6/7 fix */
+    border: 0;  
+
+    background-color: #7089b3;
+    background-image: -moz-linear-gradient(#a5b8da, #7089b3);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#a5b8da), to(#7089b3));
+    background-image: -webkit-linear-gradient(#a5b8da, #7089b3);
+    background-image: -o-linear-gradient(#a5b8da, #7089b3);
+    background-image: -ms-linear-gradient(#a5b8da, #7089b3);
+    background-image: linear-gradient(#a5b8da, #7089b3);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#a5b8da', EndColorStr='#7089b3');     
+
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+
+    text-shadow: 0 1px 0 rgba(0,0,0,.3);
+
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5), 0 3px 0 rgba(0, 0, 0, 0.7);
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5), 0 3px 0 rgba(0, 0, 0, 0.7);
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5), 0 3px 0 rgba(0, 0, 0, 0.7);
+}
+
+.zoo-filter .button:hover
+{
+    background-color: #a5b8da;
+    background-image: -moz-linear-gradient(#7089b3, #a5b8da);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#7089b3), to(#a5b8da));
+    background-image: -webkit-linear-gradient(#7089b3, #a5b8da);
+    background-image: -o-linear-gradient(#7089b3, #a5b8da);
+    background-image: -ms-linear-gradient(#7089b3, #a5b8da);
+    background-image: linear-gradient(#7089b3, #a5b8da);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7089b3', EndColorStr='#a5b8da');
+}
+
+.zoo-filter .button:active
+{
+    background: #64799e;
+    position: relative;
+    top: 2px;
+
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.7) inset;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.7) inset;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.7) inset;
+}

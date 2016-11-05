@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element>
+	<params group="render">
+		<param name="@spacer" type="spacer" default="PLG_ZOOFILTER_ELEMENT_NOT_COMPATIBLE" />
+	</params>
+</element>

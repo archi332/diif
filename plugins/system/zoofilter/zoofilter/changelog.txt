@@ -1,0 +1,169 @@
+Changelog
+------------
+
+3.0.2
+ # Fixed "Page not found" issue introduced in v3.0
+
+3.0.1
+^ Improved install script
+
+3.0
+ # Fixed multiple select reset
+ # Fixed Maximum Tree Level for Categories
+ # Fixed Empty Categories check function
+ + Total Item number in Category name
+ + Custom Category Tree Prefix/Spacer
+ + Custom Label on Order Layout
+ + Search SEF URLs!
+ ^ Removed deprecated getEscaped code
+
+3.0 BETA2
+ # Fixed J3.0 related conversion issues
+
+3.0 BETA
+ ^ ZOO & Joomla 3 compatibility
+ ^ Posibility to set from layout Prefix and Spacer of a Category List
+ # Fixed Max Level list on Category Group Layouts
+ # Fixed Hide Empty Categories param on Category Group Ajax Layout
+ - Removed j1.5 compatibility
+
+2.6.3
+ # Fixed order issue introduced in v2.6.2
+
+2.6.2
+ # Static Content output on Search layouts recovered
+ # Elements Option Group Checkbox layout search fix
+ # Inherit Default Order from App fixed
+
+2.6.1
+ + ZOOlingual, ZOOaccess & ZOOaksubs Search Layout compatibility
+ # Option Elements:Checkbox layout mode param was missing
+ # Category Group Ajax Layout: minor value fix
+ + Category Group Ajax Layout: optional search on any selection
+ + Added support for Date Pro element
+
+2.6
+ ^ Removed j1.5 compatibility
+ ^ Module Category group Ajax layout code simplified/improved
+
+2.5.8
+ # Params zfgroup issue fixed introduced in 2.5.7
+
+2.5.7
+ + Feature: translate Element Option names with INI files
+ + Category Radio layout
+ + Feature: hide Empty Categories
+ ^ ZLFW 2.5.8 Compatibility
+
+2.5.6
+ # Fixed issue with multiple selects
+ ^ ZLFW 2.5.6 Compatibility
+
+2.5.5
+ # Fixed Module Layout issue introduced in v2.5.4
+
+2.5.4
+ ^ Checkbox layout updated with <span> rows
+ + Range searches
+ + Type conversion for range searches
+ # Fix for sh404sef
+
+2.5.3
+ # Fixed issue with reset button
+ ^ Added ordering support for all the core elements
+
+2.5.3b1
+ # Fixed bugs from last update
+
+2.5.2
+ ^ Added dependecies check
+ ^ ZOO 2.5.13 compatibility
+
+2.5.1
+ # Fixed notice in the result page
+
+2.5.1 RC10
+ # Default item order in joomla 1.5
+
+2.5.1 RC9
+ + Created Date Element compatibility
+ + The default ordering is the one of configured in the application configuration
+
+2.5.1 RC8
+ + Country Element compatibility
+
+2.5.1 RC7
+ + ZOOlingual compatibility
+
+2.5.1 RC6
+ # Custom Elements compatibility
+ # Fixed some missing lang strings
+ + Optional Clear button on default module layout
+
+2.5.1 RC5
+ # Search remembering Multi Selects
+ # Compatibilty with j2.5
+ # Multiple ZF Modules on same page
+ 
+2.5.1 RC4
+ + Default Search options
+ # Checkbox layout was not remembering search values
+
+2.5.1 RC3
+ # Textarea elements compatibilty
+
+2.5.1 RC2
+ # Compatibility with ZOO 2.5.7
+ ^ Updates on Category Group Elements Ajax layout
+
+2.5.1 RC1
+ ^ Complete code restructuring and rewriting
+ + Total items found
+ # Pagination fixes
+ ^ New Param experience
+ + Element Independent Layouts
+ - Depricated render layouts
+ ^ ZLFW integration
+ 
+2.5b3
+ # ZOO 2.5.5 compatibility
+
+2.5b1-b2
+ + ZOO 2.5 Transition
+ + General AND/OR element feature
+ + Configuration Errors check implemented
+
+2.4.4
+ # If no AND/OR param set notice displayed
+ # Select elements ALL returns non if used as unique filter option
+
+2.4.3
+ # Fixed value/name bug with Select Element
+ # Fixed table name for Category Element
+ ^ Cleaned General Element Params to avoid conflicts
+ + AND/OR Feature
+
+2.4.2
+ # fixed an issue that made the system relying on unpublished item ids
+ ^ j1.5 and 1.7 versions compatibiliy, merged
+ ^ General code improvement and cleanup
+ ^ Better Element control
+ + Select, Radio, Checkbox Elements support
+ + StaticText Element support (ZL Free Element)
+ + New Columns Option for Results
+
+2.4.1
+ # fixed issue that prevented the layout for results not being displayed in admin side (J1.6 only)
+ # fixed a problem with the search on different applications
+ ^ changed plugin folder structure on J1.6 version
+
+2.4.0
+ Initial Release
+
+* -> Security Fix
+# -> Bug Fix
+$ -> Language fix or change
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note

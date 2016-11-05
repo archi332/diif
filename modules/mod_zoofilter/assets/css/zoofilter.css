@@ -1,0 +1,27 @@
+.zoofilter .pos-elements{
+	overflow:hidden;
+}
+
+.zoofilter .pos-elements .element-row{
+	line-height:20px;
+}
+
+.zoofilter .pos-elements div{
+	overflow: hidden;
+}
+
+.zoofilter .pos-elements strong{
+	display: block;
+	width: 25%;
+	margin-right: 10px;
+	float: left;
+	font-weight: normal;
+	vertical-align:middle;
+}
+
+.zoofilter .pos-elements input, .zoofilter .pos-elements select{
+	vertical-align:middle;
+	width:66%;
+	padding:0;
+	border: 1px solid #ccc;
+}

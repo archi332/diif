@@ -1,0 +1,138 @@
+2016-10-25 12:35:42 [install script] Running install on: Linux | Apache | php 5.4.37 | safe_mode: 0 | interface: cgi-fcgi
+2016-10-25 12:35:42 [install script] Found 3 chained extensions.
+2016-10-25 12:35:42 [install script] Installing LIBRARY... [SUCCESS]
+2016-10-25 12:35:42 [install script] Installing MODULE... [SUCCESS]
+2016-10-25 12:35:42 [install script] Installing PLUGIN... [SUCCESS]
+2016-10-25 12:35:42 [install script] Determining correct file permissions...  [100644]
+2016-10-25 12:35:42 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact/lib/functions.php]... [1]
+2016-10-25 12:35:42 [install script] Determining correct directory permissions...  [40755]
+2016-10-25 12:35:42 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components]... [1]
+2016-10-25 12:35:42 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact]... [1]
+2016-10-25 12:35:42 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact/lib]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] --- Determining if this system is able to draw captcha images ---
+2016-10-25 12:35:42 [fcaptchaimage] gd extension found. Let's see if it works.
+2016-10-25 12:35:42 [fcaptchaimage] GD Version... [bundled (2.1.0 compatible)]
+2016-10-25 12:35:42 [fcaptchaimage] FreeType Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] FreeType Linkage... [with freetype]
+2016-10-25 12:35:42 [fcaptchaimage] T1Lib Support... []
+2016-10-25 12:35:42 [fcaptchaimage] GIF Read Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] GIF Create Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] JPEG Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] PNG Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] WBMP Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] XPM Support... []
+2016-10-25 12:35:42 [fcaptchaimage] XBM Support... [1]
+2016-10-25 12:35:42 [fcaptchaimage] JIS-mapped Japanese Font Support... []
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imagecreate]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imagecolorallocate]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imagefill]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imageline]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imagettftext]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imagejpeg]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] testing function [imagedestroy]... [1]
+2016-10-25 12:35:42 [fcaptchaimage] --- Method choosen to draw captcha images is [use_gd] ---
+2016-10-25 12:35:42 [fieldsbuilder] --- Determining if this system is able to query DNS records ---
+2016-10-25 12:35:42 [fieldsbuilder] checkdnsrr function found. Let's see if it works.
+2016-10-25 12:35:42 [fieldsbuilder] testing function [checkdnsrr]... [1]
+2016-10-25 12:35:42 [fieldsbuilder] --- Method choosen to query DNS records is [dns_check] ---
+2016-10-25 12:35:42 [fmimetype] --- Determining if this system is able to detect file mime types ---
+2016-10-25 12:35:42 [fmimetype] fileinfo extension found. Let's see if it works.
+2016-10-25 12:35:42 [fmimetype] testing detected mimetype [audio/mpeg; charset=binary] seeking expected string [/^audio\//]... [1]
+2016-10-25 12:35:42 [fmimetype] testing detected mimetype [video/mp4; charset=binary] seeking expected string [/^video\//]... [1]
+2016-10-25 12:35:42 [fmimetype] testing detected mimetype [image/jpeg; charset=binary] seeking expected string [/^image\//]... [1]
+2016-10-25 12:35:42 [fmimetype] testing detected mimetype [application/zip; charset=binary] seeking expected string [/^application\/.*zip/]... [1]
+2016-10-25 12:35:42 [fmimetype] testing detected mimetype [application/pdf; charset=binary] seeking expected string [/^application\/pdf/]... [1]
+2016-10-25 12:35:42 [fmimetype] --- Method choosen to detect file mime types is [use_fileinfo] ---
+2016-10-25 12:35:42 [install script] Component action 'install' completed.
+2016-10-26 12:57:34 [install script] Running update on: Linux | Apache | php 5.4.37 | safe_mode: 0 | interface: cgi-fcgi
+2016-10-26 12:57:34 [install script] Found 3 chained extensions.
+2016-10-26 12:57:34 [install script] Installing LIBRARY... [SUCCESS]
+2016-10-26 12:57:34 [install script] Installing MODULE... [SUCCESS]
+2016-10-26 12:57:34 [install script] Installing PLUGIN... [SUCCESS]
+2016-10-26 12:57:34 [install script] Determining correct file permissions...  [100644]
+2016-10-26 12:57:34 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact/lib/functions.php]... [1]
+2016-10-26 12:57:34 [install script] Determining correct directory permissions...  [40755]
+2016-10-26 12:57:34 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components]... [1]
+2016-10-26 12:57:34 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact]... [1]
+2016-10-26 12:57:34 [install script] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact/lib]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] --- Determining if this system is able to draw captcha images ---
+2016-10-26 12:57:34 [fcaptchaimage] gd extension found. Let's see if it works.
+2016-10-26 12:57:34 [fcaptchaimage] GD Version... [bundled (2.1.0 compatible)]
+2016-10-26 12:57:34 [fcaptchaimage] FreeType Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] FreeType Linkage... [with freetype]
+2016-10-26 12:57:34 [fcaptchaimage] T1Lib Support... []
+2016-10-26 12:57:34 [fcaptchaimage] GIF Read Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] GIF Create Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] JPEG Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] PNG Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] WBMP Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] XPM Support... []
+2016-10-26 12:57:34 [fcaptchaimage] XBM Support... [1]
+2016-10-26 12:57:34 [fcaptchaimage] JIS-mapped Japanese Font Support... []
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imagecreate]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imagecolorallocate]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imagefill]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imageline]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imagettftext]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imagejpeg]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] testing function [imagedestroy]... [1]
+2016-10-26 12:57:34 [fcaptchaimage] --- Method choosen to draw captcha images is [use_gd] ---
+2016-10-26 12:57:34 [fieldsbuilder] --- Determining if this system is able to query DNS records ---
+2016-10-26 12:57:34 [fieldsbuilder] checkdnsrr function found. Let's see if it works.
+2016-10-26 12:57:34 [fieldsbuilder] testing function [checkdnsrr]... [1]
+2016-10-26 12:57:34 [fieldsbuilder] --- Method choosen to query DNS records is [dns_check] ---
+2016-10-26 12:57:34 [fmimetype] --- Determining if this system is able to detect file mime types ---
+2016-10-26 12:57:34 [fmimetype] fileinfo extension found. Let's see if it works.
+2016-10-26 12:57:34 [fmimetype] testing detected mimetype [audio/mpeg; charset=binary] seeking expected string [/^audio\//]... [1]
+2016-10-26 12:57:34 [fmimetype] testing detected mimetype [video/mp4; charset=binary] seeking expected string [/^video\//]... [1]
+2016-10-26 12:57:34 [fmimetype] testing detected mimetype [image/jpeg; charset=binary] seeking expected string [/^image\//]... [1]
+2016-10-26 12:57:34 [fmimetype] testing detected mimetype [application/zip; charset=binary] seeking expected string [/^application\/.*zip/]... [1]
+2016-10-26 12:57:34 [fmimetype] testing detected mimetype [application/pdf; charset=binary] seeking expected string [/^application\/pdf/]... [1]
+2016-10-26 12:57:34 [fmimetype] --- Method choosen to detect file mime types is [use_fileinfo] ---
+2016-10-26 12:57:34 [install script] Component action 'update' completed.
+2016-10-26 13:06:54 [installscript] Running install on: Linux | Apache | php 5.4.37 | safe_mode: 0 | interface: cgi-fcgi
+2016-10-26 13:06:54 [installscript] Found 3 chained extensions.
+2016-10-26 13:06:54 [installscript] Installing LIBRARY... [SUCCESS]
+2016-10-26 13:06:54 [installscript] Installing MODULE... [SUCCESS]
+2016-10-26 13:06:54 [installscript] Installing PLUGIN... [SUCCESS]
+2016-10-26 13:06:54 [installscript] Determining correct file permissions...  [100644]
+2016-10-26 13:06:54 [installscript] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact/lib/functions.php]... [1]
+2016-10-26 13:06:54 [installscript] Determining correct directory permissions...  [40755]
+2016-10-26 13:06:54 [installscript] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components]... [1]
+2016-10-26 13:06:54 [installscript] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact]... [1]
+2016-10-26 13:06:54 [installscript] setting permissions for [/var/www/vhosts/zdorovya.in.ua/dilovaif.cruks.eu/components/com_foxcontact/lib]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] --- Determining if this system is able to draw captcha images ---
+2016-10-26 13:06:54 [fcaptchaimage] gd extension found. Let's see if it works.
+2016-10-26 13:06:54 [fcaptchaimage] GD Version... [bundled (2.1.0 compatible)]
+2016-10-26 13:06:54 [fcaptchaimage] FreeType Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] FreeType Linkage... [with freetype]
+2016-10-26 13:06:54 [fcaptchaimage] T1Lib Support... []
+2016-10-26 13:06:54 [fcaptchaimage] GIF Read Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] GIF Create Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] JPEG Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] PNG Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] WBMP Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] XPM Support... []
+2016-10-26 13:06:54 [fcaptchaimage] XBM Support... [1]
+2016-10-26 13:06:54 [fcaptchaimage] JIS-mapped Japanese Font Support... []
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imagecreate]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imagecolorallocate]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imagefill]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imageline]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imagettftext]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imagejpeg]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] testing function [imagedestroy]... [1]
+2016-10-26 13:06:54 [fcaptchaimage] --- Method choosen to draw captcha images is [use_gd] ---
+2016-10-26 13:06:54 [fieldsbuilder] --- Determining if this system is able to query DNS records ---
+2016-10-26 13:06:54 [fieldsbuilder] checkdnsrr function found. Let's see if it works.
+2016-10-26 13:06:54 [fieldsbuilder] testing function [checkdnsrr]... [1]
+2016-10-26 13:06:54 [fieldsbuilder] --- Method choosen to query DNS records is [dns_check] ---
+2016-10-26 13:06:54 [fmimetype] --- Determining if this system is able to detect file mime types ---
+2016-10-26 13:06:54 [fmimetype] fileinfo extension found. Let's see if it works.
+2016-10-26 13:06:54 [fmimetype] testing detected mimetype [audio/mpeg; charset=binary] seeking expected string [/^audio\//]... [1]
+2016-10-26 13:06:54 [fmimetype] testing detected mimetype [video/mp4; charset=binary] seeking expected string [/^video\//]... [1]
+2016-10-26 13:06:54 [fmimetype] testing detected mimetype [image/jpeg; charset=binary] seeking expected string [/^image\//]... [1]
+2016-10-26 13:06:54 [fmimetype] testing detected mimetype [application/zip; charset=binary] seeking expected string [/^application\/.*zip/]... [1]
+2016-10-26 13:06:54 [fmimetype] testing detected mimetype [application/pdf; charset=binary] seeking expected string [/^application\/pdf/]... [1]
+2016-10-26 13:06:54 [fmimetype] --- Method choosen to detect file mime types is [use_fileinfo] ---
+2016-10-26 13:06:54 [installscript] Component installation seems successfull.

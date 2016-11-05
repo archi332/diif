@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2016-11-05T16:29:06Z" yahoo:lang="en-US"><results><channel><yweather:units xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" distance="km" pressure="mb" speed="km/h" temperature="C"/><title>Yahoo! Weather - Ivano-Frankivs'k, Ivano-Frankivsk Oblast, UA</title><link>http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-921237/</link><description>Yahoo! Weather for Ivano-Frankivs'k, Ivano-Frankivsk Oblast, UA</description><language>en-us</language><lastBuildDate>Sat, 05 Nov 2016 06:29 PM EET</lastBuildDate><ttl>60</ttl><yweather:location xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" city="Ivano-Frankivs'k" country="Ukraine" region=" Ivano-Frankivsk Oblast"/><yweather:wind xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" chill="39" direction="130" speed="17.70"/><yweather:atmosphere xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" humidity="66" pressure="33152.76" rising="0" visibility="25.91"/><yweather:astronomy xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" sunrise="7:17 am" sunset="4:52 pm"/><image><title>Yahoo! Weather</title><width>142</width><height>18</height><link>http://weather.yahoo.com</link><url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url></image><item><title>Conditions for Ivano-Frankivs'k, Ivano-Frankivsk Oblast, UA at 05:00 PM EET</title><geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">48.9231</geo:lat><geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">24.718599</geo:long><link>http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-921237/</link><pubDate>Sat, 05 Nov 2016 05:00 PM EET</pubDate><yweather:condition xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="27" date="Sat, 05 Nov 2016 05:00 PM EET" temp="6" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="05 Nov 2016" day="Sat" high="7" low="-2" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="11" date="06 Nov 2016" day="Sun" high="14" low="4" text="Showers"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="12" date="07 Nov 2016" day="Mon" high="15" low="1" text="Rain"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="08 Nov 2016" day="Tue" high="5" low="2" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="39" date="09 Nov 2016" day="Wed" high="5" low="-1" text="Scattered Showers"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="10 Nov 2016" day="Thu" high="2" low="-1" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="11 Nov 2016" day="Fri" high="2" low="-3" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="12 Nov 2016" day="Sat" high="1" low="-1" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="13 Nov 2016" day="Sun" high="3" low="0" text="Mostly Cloudy"/><yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="14 Nov 2016" day="Mon" high="5" low="-1" text="Mostly Cloudy"/><description>&lt;![CDATA[&lt;img src="http://l.yimg.com/a/i/us/we/52/27.gif"/&gt;
+&lt;BR /&gt;
+&lt;b&gt;Current Conditions:&lt;/b&gt;
+&lt;BR /&gt;Mostly Cloudy
+&lt;BR /&gt;
+&lt;BR /&gt;
+&lt;b&gt;Forecast:&lt;/b&gt;
+&lt;BR /&gt; Sat - Mostly Cloudy. High: 7Low: -2
+&lt;BR /&gt; Sun - Showers. High: 14Low: 4
+&lt;BR /&gt; Mon - Rain. High: 15Low: 1
+&lt;BR /&gt; Tue - Mostly Cloudy. High: 5Low: 2
+&lt;BR /&gt; Wed - Scattered Showers. High: 5Low: -1
+&lt;BR /&gt;
+&lt;BR /&gt;
+&lt;a href="http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-921237/"&gt;Full Forecast at Yahoo! Weather&lt;/a&gt;
+&lt;BR /&gt;
+&lt;BR /&gt;
+(provided by &lt;a href="http://www.weather.com" &gt;The Weather Channel&lt;/a&gt;)
+&lt;BR /&gt;
+]]&gt;</description><guid isPermaLink="false"/></item></channel></results></query><!-- total: 10 -->
+<!-- prod_bf1_1;paas.yql;queryyahooapiscomproductionbf1;a8aeb5ca-a2ae-11e6-9353-d4ae5297450a -->

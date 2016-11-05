@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<renderer>
+	<positions layout="default">
+		<position name="elements">Elements</position>
+	</positions>
+	<positions layout="layout2">
+		<position name="elements">Elements</position>
+	</positions>
+	<positions layout="layout3">
+		<position name="elements">Elements</position>
+	</positions>
+</renderer>

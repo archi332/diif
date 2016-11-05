@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="dilovaif@78.26.145.136" uuid="af82e4dc-9dea-43c4-b19f-5dd5dd907e07">
+      <database-info product="MySQL" version="5.5.46-0ubuntu0.12.04.2-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>dalib_dilovaif</user-name>
+      <resolve-scope>daliborpap-2137_dilovaif:</resolve-scope>
+    </data-source>
+    <data-source name="diif@localhost" uuid="1b516c1d-8b4d-418e-810c-65cb9cc38d04">
+      <database-info product="MySQL" version="5.6.31-0ubuntu0.15.10.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <resolve-scope>diif:</resolve-scope>
+    </data-source>
+    <data-source name="dilovaif@localhost" uuid="dec66244-8687-45fd-a008-56b6aaa945f7">
+      <database-info product="MySQL" version="5.6.31-0ubuntu0.15.10.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <resolve-scope>daliborpap-2137_dilovaif:</resolve-scope>
+    </data-source>
+  </component>
+</project>

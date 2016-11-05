@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade" version="2.5.6" zlfw="3.0.6">
+	<name>ZOOfilter</name>
+	<author>ZOOlanders</author>
+	<creationDate>May 2011</creationDate>
+	<copyright>Copyright (C) JOOlanders SL</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only</license>
+	<authorEmail>info@zoolanders.com</authorEmail>
+	<authorUrl>http://www.zoolanders.com</authorUrl>
+	<version>3.0.2</version>
+	<description>PLG_ZOOFILTER_SYS_DESCRIPTION</description>
+	<scriptfile>install.script.php</scriptfile>
+	<files>
+		<filename plugin="zoofilter">zoofilter.php</filename>
+		<filename>install.script.php</filename>
+		<filename>index.html</filename>
+		<folder>zoofilter</folder>		
+	</files>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_system_zoofilter.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_system_zoofilter.sys.ini</language>
+    </languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="debug" type="radio" default="0" label="PLG_ZLFRAMEWORK_DEBUG" description="PLG_ZLFRAMEWORK_DEBUG_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

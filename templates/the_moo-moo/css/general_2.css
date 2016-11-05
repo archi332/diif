@@ -1,0 +1,211 @@
+/*
+===================================================================
+footer
+===================================================================
+*/
+
+footer {
+    background-color: #3c3c3c;
+    width: 100%;
+}
+
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+/*
+====================================================================
+footer-left
+====================================================================
+*/
+
+p.sddres,
+p.tel_number,
+p.title,
+p.mail,
+p.discript {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    /*line-height: 1.2;*/
+}
+
+.info_block p span.b {
+    font-weight: 600;
+}
+
+.footer-left {
+    width: 30%;
+    margin-top: 30px;
+}
+
+.info_block {
+    margin-top: 35px;
+}
+
+p.sddres,
+p.tel_number,
+p.mail,
+p.discript {
+    background-repeat: no-repeat;
+    background-position: left 5px;
+    padding-left: 40px;
+    margin-top: 25px;
+}
+
+p.sddres {
+    background-image: url(/images/map-pin.png);
+}
+
+p.tel_number {
+    background-image: url(/images/telephone.png);
+    background-position: left 0px;
+    height: 30px;
+    line-height: 23px;
+}
+
+p.mail {
+    background-image: url(/images/speech-bubble-3.png);
+    height: 30px;
+    line-height: 28px;
+    margin-top: 14px;
+}
+
+p.discript {
+    background-image: url(/images/clipboard.png);
+    margin-bottom: 30px;
+    line-height: 22px;
+    margin-top: 15px;
+    background-position: left;
+}
+
+
+/*
+======================================================
+fox-contact
+======================================================
+*/
+
+.footer-middle {
+    width: 41%;
+    margin-top: 30px;
+}
+
+.footer-middle .fox-item h2 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.footer-middle div#fox-container-m120 .fox-form input[type="text"] {
+    color: #848484;
+    background-color: #515151;
+    border: 1px solid #515151;
+}
+
+.footer-middle div#fox-container-m120 .fox-form textarea {
+    color: #848484;
+    background-color: #515151;
+    border: 1px solid #515151;
+}
+
+.footer-middle div#fox-m120-textarea1-box {
+    margin-top: 42px;
+}
+
+.footer-middle div#fox-container-m120 .btn {
+    width: 100%;
+    background-image: none;
+    background-color: rgb(251, 183, 0);
+}
+
+.footer-middle div#fox-container-m120 .btn span {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-shadow: 0.707px 0.707px 1px rgba(0, 0, 0, 0.23);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+/*socila lincs*/
+
+.social_block {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+p.social_title {
+    width: 54%;
+}
+
+p.social_title {
+    font-size: 18px;
+    color: rgb(251, 251, 251);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    margin-top: 9px;
+}
+
+.soc_group {
+    text-align: left;
+    width: 42%;
+    display: flex;
+    margin-left: 10px;
+}
+
+a.f {
+    display: block;
+    width: 28%;
+}
+
+a.g {
+    display: block;
+    width: 24%;
+}
+
+
+/*
+======================================================
+footer-right
+======================================================
+*/
+
+.footer-right {
+    width: 25%;
+}
+
+.footer-right img {
+    margin-top: 30px;
+}
+
+.footer-right .banneritem {
+    padding-left: calc(100% - 290px);
+}
+
+.footer_copiright {
+    color: #fff;
+    font-size: 12px;
+    text-align: right;
+    margin-top: 36px;
+}
+
+span.bold_foot {
+    font-weight: 600;
+}
+
+.footer_copiright p:nth-child(2) {
+    margin-top: 13px;
+}

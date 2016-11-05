@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element>
+	<params group="render">
+		<param name="@info" type="zfinfo" label="Basic" />
+		<param name="basic" type="zlfield" toggle="true" togglelabel="Basic">
+			<setfield id="showlabel" type="radio" label="PLG_ZLFRAMEWORK_SHOW_LABEL" help="PLG_ZLFRAMEWORK_SHOW_HIDE_LABEL_DESC" default="0" />
+			<setfield id="altlabel" type="text" label="PLG_ZLFRAMEWORK_ALT_LABEL" help="PLG_ZLFRAMEWORK_CUSTOM_LABEL_DESC" />
+			<setfield id="_zfgroup" type="hidden" control="specific">
+				<specific value="option" />
+			</setfield>
+		</param>
+		<param name="layout" type="zlfield" label="Layout" addctrl="layout" toggle="true">
+			<loadfield type="layout">
+				<layout label="PLG_ZLFRAMEWORK_MAIN_LAYOUT" help="PLG_ZLFRAMEWORK_MAIN_LAYOUT_DESC" path="modules:mod_zoofilter/tmpl/_elements/option/layouts" default="default.php" />
+			</loadfield>
+		</param>
+		<param name="search" type="zlfield" label="Search" addctrl="search" toggle="true">
+			<setfield id="_logic" type="radio" label="PLG_ZOOFILTER_LOGIC" help="PLG_ZOOFILTER_LOGIC_DESC" default="AND">
+				<specific>
+					<options>
+						<option value="AND">PLG_ZLFRAMEWORK_AND</option>
+						<option value="OR">PLG_ZLFRAMEWORK_OR</option>
+					</options>
+				</specific>
+			</setfield>
+			<setfield id="_required" type="radio" label="PLG_ZOOFILTER_REQUIRED" help="PLG_ZOOFILTER_REQUIRED_DESC" default="0" />
+		</param>
+	</params>
+</element>

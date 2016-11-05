@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="662e7ab8-0841-4fc8-846b-cd45f2ee209b" name="dilova_if" url="http://78.26.145.136">
+        <fileTransfer host="78.26.145.136" port="21" rootFolder="/dilovaif.cruks.eu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element>
+	<params group="render">
+		<param name="@info" type="zfinfo" label="Basic" />
+		<param type="zlfield">
+			<setfield id="altlabel" type="text" label="PLG_ZLFRAMEWORK_ALT_LABEL" help="PLG_ZLFRAMEWORK_CUSTOM_LABEL_DESC" />
+			<setfield id="value_type" type="select" label="PLG_ZOOFILTER_VALUE_TYPE" help="PLG_ZOOFILTER_VALUE_TYPE_DESC">
+				<specific>
+					<options>
+						<option value="string">PLG_ZOOFILTER_ALPHABETICAL</option>
+						<option value="int">PLG_ZOOFILTER_NUMERICAL</option>
+						<option value="float">PLG_ZOOFILTER_NUMERICAL_WITH_DECIMALS</option>
+						<option value="date">PLG_ZOOFILTER_BY_DATE</option>
+					</options>
+				</specific>
+			</setfield>
+		</param>
+	</params>
+</element>
